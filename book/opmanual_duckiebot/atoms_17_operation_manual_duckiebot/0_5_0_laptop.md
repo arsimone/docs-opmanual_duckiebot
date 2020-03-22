@@ -29,6 +29,8 @@ These installation steps make sure that you have a minimal "sane" environment, w
 2. Docker;
 3. The Duckietown Shell.
 
+Note: If you are a student, please use your official student email address, so that you can be sorted in the right group.
+
 
 ## Native installation vs virtual machines {#laptop-setup-vms}
 
