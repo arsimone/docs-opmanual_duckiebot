@@ -29,7 +29,7 @@ These installation steps make sure that you have a minimal "sane" environment, w
 2. Docker;
 3. The Duckietown Shell.
 
-Note: If you are a student, please use your official student email address, so that you can be sorted in the right group.
+Note: In order to avoid problems with Duckietown Shell please make sure the terminal language is set to english. The easiest way to do that is to simply set the overall system language to english.
 
 
 ## Native installation vs virtual machines {#laptop-setup-vms}
